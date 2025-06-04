@@ -1,0 +1,24 @@
+Boot ---
+
+como dar boot no notebook think pad l14 gen 2 (notebook fornecido pelo Estado de São Paulo nas escolas)
+
+configurações do boot ao iniciar prescione varias vezes a tecla F1 para entrar nas configurações 
+procure a opção boot manager e depois vá até Secure Boot e desative ela
+aperte F10 para salvar as alterações
+
+e agora com o note reiniciando aperte f12 ou Delete (não lembro, na duvidas aperta os dois kkkkkkkkkkk)
+
+escolhe o pendrive e entre
+
+
+❗ Cuidado ❗
+
+quando quiser voltar para o windows padrão que já estava, você deve ligar a opção que você desligou nas primeiras etapas 
+e no final aperte F10 para salvar as alterações e reinicie normalmente que ele deve voltar ao normal
+
+caso não faça isso o BitLocker pode pedir a chave do windows por protocolo de segurança 
+
+
+qual quer problema me envie um email:
+  
+
